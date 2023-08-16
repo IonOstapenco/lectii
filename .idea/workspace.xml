@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe93a6d8-65ed-48b6-8a6a-d8686633fd95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson5/Block1_Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson5/Lesson5_Block1_Ex2.java" afterDir="false" />
+    <list default="true" id="fe93a6d8-65ed-48b6-8a6a-d8686633fd95" name="Changes" comment="doing first block of fifth homework">
+      <change afterPath="$PROJECT_DIR$/src/lesson5/Lesson5_Block1_Ex3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lesson5/Something.java" beforeDir="false" />
     </list>
@@ -37,7 +36,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lesson5_Block1_Ex2">
+  <component name="RunManager" selected="Application.Lesson5_Block1_Ex3">
     <configuration name="Block1_Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson5.Block1_Ex1" />
       <module name="Learning_homework" />
@@ -64,8 +63,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lesson5_Block1_Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson5.Lesson5_Block1_Ex3" />
+      <module name="Learning_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lesson5_Block1_Ex3" />
         <item itemvalue="Application.Lesson5_Block1_Ex2" />
         <item itemvalue="Application.Block1_Ex1" />
       </list>
@@ -80,6 +93,14 @@
       <option name="presentableId" value="Default" />
       <updated>1691915340916</updated>
     </task>
+    <task id="LOCAL-00001" summary="doing first block of fifth homework">
+      <created>1692120284363</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692120284363</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,5 +113,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="doing first block of fifth homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="doing first block of fifth homework" />
   </component>
 </project>
