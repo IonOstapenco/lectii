@@ -44,7 +44,7 @@ public class Lesson5_Block1_Ex3 {
         System.out.println("math pow even numbers");
         for (int i = 0; i < masDouble.length; i++) {
             if (masDouble[i] % 2 == 0) {
-                masDouble[i] =  Math.pow(masDouble[i], 2);
+                masDouble[i] = Math.pow(masDouble[i], 2);
                 System.out.print(Math.pow(masDouble[i], 2) + " ");
             }
         }
