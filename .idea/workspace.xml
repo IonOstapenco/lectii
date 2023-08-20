@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe93a6d8-65ed-48b6-8a6a-d8686633fd95" name="Changes" comment="lesson5 block2 array ex6">
+      <change afterPath="$PROJECT_DIR$/src/lesson5/Lesson5_block1_ex1a.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson5/Lesson5_Block2_Ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson5/Lesson5_Block2_Ex5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson5/Lesson5_Block2_Ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson5/Lesson5_Block2_Ex6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lesson5_Block2_Ex6">
+  <component name="RunManager" selected="Application.Lesson5_block1_ex1a">
     <configuration name="Lesson5_Block2_Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson5.Lesson5_Block2_Ex3" />
       <module name="Learning_homework" />
@@ -89,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Something" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson5.Something" />
+    <configuration name="Lesson5_block1_ex1a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson5.Lesson5_block1_ex1a" />
       <module name="Learning_homework" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lesson5_block1_ex1a" />
         <item itemvalue="Application.Lesson5_Block2_Ex6" />
         <item itemvalue="Application.Lesson5_Block2_Ex5" />
         <item itemvalue="Application.Lesson5_Block2_Ex4" />
         <item itemvalue="Application.Lesson5_Block2_Ex3" />
-        <item itemvalue="Application.Something" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692548141873</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="lesson5 block2 array ex6">
+      <created>1692551663526</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692551663526</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
